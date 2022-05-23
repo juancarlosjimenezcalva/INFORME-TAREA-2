@@ -245,3 +245,10 @@ Polaridad
 
 - Para calcular la resistencia, corriente, voltaje o potencia, no solo se necesita saber las fórmulas, sino que también se deben seguir aspectos como el despeje de ecuaciones y transformaciones de unidades, todo con el fin de poder obtener lo que se necesita. 
 
+## BIBLIOGRAFÍA 
+
+Alonso, M., & Finn, E. J. (2000). Física. II Campos y ondas. México: Addison Wesley Longman.
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
+
+Marín, A. (5 de marzo de 2021). Economipedia. Obtenido de Economipedia: https://economipedia.com/definiciones/ley-de-ohm.html
