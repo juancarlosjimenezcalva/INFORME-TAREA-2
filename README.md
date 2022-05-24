@@ -233,7 +233,7 @@ Polaridad
 
 ## VIDEO
 
-
+https://youtu.be/xrj1w8HRYp4
 
 ## CONCLUSIONES
 
